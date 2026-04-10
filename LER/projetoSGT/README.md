@@ -110,7 +110,7 @@ Infográfico de Rastreabilidade do Requisito
 
 ```mermaid
 
-Graph LR 
+graph LR 
 
     NS001["NS-001: Necessidade StakeHolder"] --> RF001["RF-001: Criação Tarefas"]
     RF001 --> TC001["TC-001: Teste de Criação"]
