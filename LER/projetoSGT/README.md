@@ -113,7 +113,7 @@ Infográfico de Rastreabilidade do Requisito
 Graph LR 
 
     NS001["NS-001: Necessidade StakeHolder"] --> RF001["RF-001: Criação Tarefas"]
-RF001 --> TC001["TC-001: Teste de Criação"]
+    RF001 --> TC001["TC-001: Teste de Criação"]
 
 ``` 
 
