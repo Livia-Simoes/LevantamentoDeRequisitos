@@ -67,7 +67,7 @@ O sgt será uma aplicação web responsiva com sincronização em nuvens.
 
 **Critérios de Aceitação**:
 - [ ] Usuário pode criar, renomear  excluir projetos
-- [ ] Tarefas podem ser atribuidas a um ou nenhum projeto
+- [ ] Tarefas podem ser atribuidas a um ou nenhum projetogi
 - [ ] Visualização filtrada por projeto
   
   **Dependências**: RF-001
