@@ -73,6 +73,22 @@ O sgt será uma aplicação web responsiva com sincronização em nuvens.
   **Dependências**: RF-001
 
 ---
+#### RF-003: Alterar a Tarefa Para Concluído
+
+**Descrição**: O sistema deve permitir alterar a tarefa para concluída
+**Prioridade**: Média.
+**Versão**: 1.0
+**Data**: 2026-04-10
+**Rastreabilidade**: Derivado da necessidade do stakeholder NS-001
+
+**Critérios de Aceitação**:
+- [ ] Usuário pode alterar a tarefa para concluída
+- [ ] Tarefas podem retornar para não concluídas 
+- [ ] Visualização filtrada por status (concluídas e não-concluídas)
+
+  **Dependências**: RF-001
+
+  ---
 
 ### 3.2 Requisitos Não-Funcionais
 
@@ -102,7 +118,7 @@ O sgt será uma aplicação web responsiva com sincronização em nuvens.
  | Versão | Data | Autor | Modificação |
  |--------|------|-------|-------------|
  | 1.0    | 2026-03-27| Equipe de Análise| Versão inicial do documento | 
- | 
+ | 1.1    | 2026-04-10| Equipe de Desenvolvimento | Inclusão da RF-003 |
 
  ### 4.2 Rastreabilidade 
 
@@ -116,5 +132,12 @@ graph LR
     RF001 --> TC001["TC-001: Teste de Criação"]
 
 ``` 
+## 5. Aprovação 
 
+Matriz de Aprovação
+
+| Alteração | Data | Autor | Aprovador | 
+| -   | - | - | - |
+| 1.0 | 2026-03-27 | Equipe de Análise | Stakeholder |
+| 1.1 | 2026-04-10 | Equipe de Desenvolvimento | Equipe de Análise |
 
